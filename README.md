@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakukale</h1>
 <h3 align="center">A dumbass cat from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakukale&label=Profile%20views&color=0e75b6&style=flat" alt="jakukale" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/jakukalle" target="blank"><img src="https://img.shields.io/twitter/follow/jakukalle?logo=twitter&style=for-the-badge" alt="jakukalle" /></a> </p>
 
 - 🔭 I’m currently working on **nothing, just learnin'**

@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jakukalle" target="blank"><img src="https://img.shields.io/twitter/follow/jakukalle?logo=twitter&style=for-the-badge" alt="jakukalle" /></a> </p>
 
-- 🔭 I’m currently working on **nothing, just learnin'**
+- 🔭 I’m currently working on **nothing, just learnin' 🪴**
 
 - 🌱 I’m currently learning **C#, ASP.net 🌿🌳**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am not funny 🥀**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact :3:</h3>
 <p align="left">
 <a href="https://twitter.com/jakukalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakukalle" height="30" width="40" /></a>
 <a href="https://discord.gg/#8866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8866" height="30" width="40" /></a>

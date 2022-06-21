@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jakukale</h1>
 <h3 align="center">A dumbass cat from Poland</h3>
-
+~~You can follow that dumbass cat
 <p align="left"> <a href="https://twitter.com/jakukalle" target="blank"><img src="https://img.shields.io/twitter/follow/jakukalle?logo=twitter&style=for-the-badge" alt="jakukalle" /></a> </p>
 
-- 🔭 I’m currently working on **nothing, just learnin' 🪴**
+- 🔭 I’m currently working on **nothing, just learnin' 🌱**
 
 - 🌱 I’m currently learning **C#, ASP.net 🌿🌳**
 
-- 💬 Ask me about **being an dummy🥔**
+- 💬 Ask me about **being an dummy 🥔**
 
-- 📫 How to reach me **jakukalecutie@gmail.com**
+- 📫 My e-mail **jakukalecutie@gmail.com**
 
 - ⚡ Fun fact **I am not funny 🥀**
 

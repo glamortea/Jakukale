@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jakukale</h1>
-<h3 align="center">A dumbass cat from Poland</h3>
-~~You can follow that dumbass cat 0w0~~
-<p align="left"> <a href="https://twitter.com/jakukalle" target="blank"><img src="https://img.shields.io/twitter/follow/jakukalle?logo=twitter&style=for-the-badge" alt="jakukalle" /></a> </p>
-
-💮 I am an furry that wants to be an programmer, my pronouns are She/Her/They, I like C#, I like cats aswell! 💮
-🥀 I'd lay in a field and watch sunsets~ 🌲🥀
-
-Contact :3
-<p align="left">
-
-<a href="https://discord.gg/#8866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8866" height="30" width="40" /></a>
-</p>
+![Metrics](https://metrics.lecoq.io/Jakukale?template=classic&tweets=1&achievements=1&activity=1&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&tweets.attachments=false&tweets.limit=2&tweets.user=jakukalle&config.timezone=Europe%2FWarsaw)
 
 
